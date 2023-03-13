@@ -6,7 +6,7 @@
       "phone": "555-555-5555",
       "numdoctors": 7,
       "eid": "017-52346-14645",
-      "opensince":1996,
+      "opensince": null,
       "familyowned": false,
       "rentoffice": false,
       "foundonline":true,
