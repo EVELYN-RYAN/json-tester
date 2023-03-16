@@ -93,8 +93,97 @@
     }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { 
+      "name": "SmileWo Dental",
+      "address": "1 Main St, Anytown USA",
+      "phone": "555-555-5555",
+      "numdoctors": 7,
+      "eid": "017-52346-14645",
+      "opensince": null,
+      "familyowned": false,
+      "rentoffice": false,
+      "foundonline":true,
+      "agp":1700000,
+      "currency":"USD" 
+    },
+    { 
+      "name": "SmileWor Dental",
+      "address": "1 Main St, Anytown USA",
+      "phone": "555-555-5555",
+      "numdoctors": 9,
+      "eid": "017-52346-16",
+      "opensince":1999,
+      "familyowned": false,
+      "rentoffice": false,
+      "foundonline":true,
+      "agp":1400000,
+      "currency":"USD" 
+    },
+        { 
+      "name": "SmileW Dental",
+      "address": "2 Main St, Anytown USA",
+      "phone": "555-555-5555",
+      "numdoctors": 8,
+      "eid": "017-52346-174",
+      "opensince":1999,
+      "familyowned": true,
+      "rentoffice": false,
+      "foundonline":false,
+      "agp":1500000,
+      "currency":"USD" 
+    },
+    { 
+      "name": "Smile Dental",
+      "address": "3 Main St, Anytown USA",
+      "phone": "555-555-5555",
+      "numdoctors": 7,
+      "eid": "017-52346-17895",
+      "opensince":1999,
+      "familyowned": false,
+      "rentoffice": false,
+      "foundonline":true,
+      "agp":1600000,
+      "currency":"USD" 
+    },
+    { 
+      "name": "Smil Dental",
+      "address": "4 Main St, Anytown USA",
+      "phone": "555-555-5555",
+      "numdoctors": 6,
+      "eid": "017-52346-12452",
+      "opensince":2001,
+      "familyowned": false,
+      "rentoffice": false,
+      "foundonline":true,
+      "agp":1700000,
+      "currency":"USD" 
+    },
+    { 
+      "name": "Smi Dental",
+      "address": "5 Main St, Anytown USA",
+      "phone": "555-555-5555",
+      "numdoctors": 5,
+      "eid": "017-52346-4568",
+      "opensince":2002,
+      "familyowned": true,
+      "rentoffice": false,
+      "foundonline":false,
+      "agp":17200000,
+      "currency":"USD" 
+    },
+    { 
+      "name": "Sm Dental",
+      "address": "6 Main St, Anytown USA",
+      "phone": "555-555-5555",
+      "numdoctors": 4,
+      "eid": "017-52346-45685",
+      "opensince":2005,
+      "familyowned": true,
+      "rentoffice": false,
+      "foundonline":true,
+      "agp":17300000,
+      "currency":"USD" 
+    }
   ],
   "profile": {
     "name": "typicode"
