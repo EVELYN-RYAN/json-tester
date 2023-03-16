@@ -104,7 +104,7 @@
       "rentoffice": false,
       "foundonline":true,
       "agp":1700000,
-      "currency":"USD" 
+      "change":"USD" 
     },
     { 
       "name": "SmileWor Dental",
@@ -117,7 +117,7 @@
       "rentoffice": false,
       "foundonline":true,
       "agp":1400000,
-      "currency":"USD" 
+      "change":"USD" 
     },
         { 
       "name": "SmileW Dental",
@@ -130,7 +130,7 @@
       "rentoffice": false,
       "foundonline":false,
       "agp":1500000,
-      "currency":"USD" 
+      "change":"USD" 
     },
     { 
       "name": "Smile Dental",
@@ -143,7 +143,7 @@
       "rentoffice": false,
       "foundonline":true,
       "agp":1600000,
-      "currency":"USD" 
+      "change":"USD" 
     },
     { 
       "name": "Smil Dental",
@@ -156,7 +156,7 @@
       "rentoffice": false,
       "foundonline":true,
       "agp":1700000,
-      "currency":"USD" 
+      "change":"USD" 
     },
     { 
       "name": "Smi Dental",
@@ -169,7 +169,7 @@
       "rentoffice": false,
       "foundonline":false,
       "agp":17200000,
-      "currency":"USD" 
+      "change":"USD" 
     },
     { 
       "name": "Sm Dental",
@@ -182,7 +182,7 @@
       "rentoffice": false,
       "foundonline":true,
       "agp":17300000,
-      "currency":"USD" 
+      "change":"USD" 
     }
   ],
   "profile": {
